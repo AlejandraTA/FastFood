@@ -10,6 +10,6 @@ public interface IFastFood {
 
     boolean isVegetariano();
 
-    String tipoPreparacion();
+    String tipoPreparacion(); 
 
 }
